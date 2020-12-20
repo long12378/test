@@ -1,8 +1,12 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="dit_me_may">dit_me_may</string>
-    <string name="m_ng">Mông</string>
-    <string name="z">zú</string>
-    <string name="t_m_h_n">tâm_hồn</string>
-    <string name="the_apolocalyse">the_apolocalyse</string>
+    <string name="app_name">CoffeHouse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_footer">MainActivity</string>
+    <string name="title_tintuc">Tin tức</string>
+    <string name="title_dathang">Đặt hàng</string>
+    <string name="title_cuahang">Cửa hàng</string>
+    <string name="title_taikhoan">Tài khoản</string>
+
+
 </resources>
